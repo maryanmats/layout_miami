@@ -1,4 +1,4 @@
-# Miami landing page
+# Miami landing page [DEMO](https://maryanmats.github.io/layout_miami)
 
 In this task, you will learn how to implement a landing page. To do that:
 
